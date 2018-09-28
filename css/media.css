@@ -1,0 +1,5 @@
+@media all and (max-width: 600px) {
+    h2, .hover-container i {
+        font-size: 18px;
+    }
+}
